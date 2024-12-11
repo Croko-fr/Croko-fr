@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Croko-fr
 - 👀 I’m interested in Forensic and Live Incident Response
+- 👀 I’m also interested in Adversarial emulation and attack detection
 - 🌱 I’m currently writing some templates for LUDUS
 - 💞️ I’m looking to collaborate on projects
 
